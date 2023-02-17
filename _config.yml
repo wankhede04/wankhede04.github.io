@@ -1,0 +1,45 @@
+# Site settings
+name: Vijay Wankhede
+title: Vijay Wankhede | Blockchain Engineer
+description: Design-minded blockchain engineer focused on developement and deployment of robust and scalable smart contracts
+url: https://wankhede04.github.io/
+baseurl: ''
+email: wankhedevijay04@gmail.com
+cover: https://wankhede04.github.io/img/og.png
+logo: https://wankhede04.github.io/img/emojis/technologist.png
+resume: https://wankhede04.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:wankhedevijay04@gmail.com
+  - title: twitter
+    url: https://twitter.com/wankhede__
+  - title: instagram
+    url: https://instagram.com/wankhede_
+  - title: codepen
+    url: http://codepen.io/
+  - title: github
+    url: https://github.com/wankhede04
+  - title: linkedin
+    url: https://www.linkedin.com/in/wankhedevijay/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
