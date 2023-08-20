@@ -1,44 +1,44 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
-  position: Engineer
+- company: Independent contractor
+  url: 
+  time: Aug 2023 - Present
+  position: Blockchain Consultant
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+- company: Volmex Lab
+  url: https://volmex.finance/
+  time: Aug 2021 - July 2023
+  position: Smart Contract Developer
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
+- company: Mettalex
+  url: https://mettalex.com/
+  time: April 2020 - May 2021
+  position: Interface Engineer
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
+- company: Deqode
+  url: https://deqode.com/
+  time: Feb 2017 - Oct 2020
+  position: Full Stack Developer
 
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
+- company: PumaPay
+  url: https://pumapay.com/
+  time: Feb 2018 - Dec 2019
+  position: Full Stack Engineer
 
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
+# - company: Northeastern University
+#   url: http://www.ccis.northeastern.edu/
+#   time: Jan - May 2016
+#   position: HCI Teaching Assistant
 
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
-  position: President & Web Chair
+# - company: NU Women in Tech
+#   url: http://nuwit.ccs.neu.edu/
+#   time: Jan 2016 - May 2017
+#   position: President & Web Chair
 
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
+# - company: MullenLowe U.S.
+#   url: https://us.mullenlowe.com/
+#   time: July - Dec 2015
+#   position: Creative Technologist Co-op
 
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
+# - company: Northeastern University
+#   url: http://www.ccis.northeastern.edu/
+#   time: Mar - May 2015
+#   position: HCI Research Assistant
