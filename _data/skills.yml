@@ -1,33 +1,40 @@
 languages:
-  - item: JavaScript (ES6)
   - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: Solidity
+  - item: Rust
+  - item: Go-Lang
   - item: Python
+  - item: Shell
   - item: SQL
-  - item: R
 
 frameworks:
-  - item: Ember & Glimmer
+  - item: Ethereum
+  - item: Express
   - item: React
-  - item: Jekyll
   - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Angular
+  - item: Jekyll
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
+  - item: GETH
+  - item: Hardhat
+  - item: Ganache
+  - item: Remix
+  - item: Foundry
+  - item: Blocksec's Phalcon
+  - item: Swagger
+  - item: Docker (Compose)
   - item: Postman
-  - item: MongoDB
+  - item: MongoDB, PostgreSQL
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: AWS
+  - item: Google Cloud
+  - item: Refinitiv
+  - item: OpenZeppelin Defender & Sentinel
+  - item: Tenderly
+  - item: Blockchain explorers
+  - item: Slither
+  - item: Gnosis
